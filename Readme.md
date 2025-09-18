@@ -1,9 +1,11 @@
 # Few words ...
 Designing a programming language is a fascinating process.
-In the age of OOP dominated programming world, existence of 
-high-level APIs bypasses the need to interact with low-level
-intricacies. However, how these programming languages are
-programmed, is to me a mystery. Basically I lacked the understanding
+In the world of high-level APIs the need to interact with low-level
+intricacies has reduced. However, understanding low-level details 
+remains important for performance optimization, debugging, 
+and systems programming. To go even further down, "how these 
+programming languages are themselves programmed", that is a complete
+mystery to me. Basically I lacked the understanding
 of compiler/interpreter design. So, I started to dig into the
 topic and what I found that although building a production-level
 compiler is very complicated (not an easy task at all! Much respect!),
